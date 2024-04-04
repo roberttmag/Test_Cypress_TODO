@@ -9,5 +9,6 @@ Neste repositório, você encontrará soluções em Cypress.js para diversos exe
 ## Contatos
 
 Instagram: https://www.instagram.com/roberttmag/
+
 Linkedin: https://www.linkedin.com/in/robert-magalh%C3%A3es-243584237/
 
